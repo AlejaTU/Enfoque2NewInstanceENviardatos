@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Enfoque2NewInstanceENviardatos</string>
+    <string name="hola_Bienvenida">Hola, estas a punto de entrar en otra dimension</string>
+    <string name="paraiso">Bienvenido al Paraiso</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
